@@ -1,4 +1,4 @@
 <?php
 return function ($request, $response, $service, $app) {
-    return 'Главная страница сайта';
+    $service->render('views/main.php');
 };

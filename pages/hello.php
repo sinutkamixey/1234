@@ -1,4 +1,4 @@
 <?php
 return function ($request, $response, $service, $app) {
-    return 'Hello world!';
+    $service->render('views/hello.php');
 };
