@@ -1,0 +1,12 @@
+{
+    "name": "pi501/localhost",
+    "authors": [
+        {
+            "name": "O A",
+            "email": "nastasya873@gmail.com"
+        }
+    ],
+    "require": {
+        "klein/klein": "^2.1"
+    }
+}
